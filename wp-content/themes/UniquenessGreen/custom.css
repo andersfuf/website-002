@@ -1,0 +1,126 @@
+.header {
+    background-color: #91ba3d;
+    border-color: #67791f;
+}
+
+.btn-primary {
+  color: #ffffff;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+  background-color: #91ba3d;
+  background-image: -moz-linear-gradient(top, #bcd555, #91ba3d);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#bcd555), to(#91ba3d));
+  background-image: -webkit-linear-gradient(top, #bcd555, #91ba3d);
+  background-image: -o-linear-gradient(top, #bcd555, #91ba3d);
+  background-image: linear-gradient(to bottom, #bcd555, #91ba3d);
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffbcd555', endColorstr='#ff91ba3d', GradientType=0);
+  border-color: #91ba3d #91ba3d #67791f;
+  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+  *background-color: #91ba3d;
+  /* Darken IE7 buttons by default so they stand out more given they won't have borders */
+
+  filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+}
+
+.btn-primary:active,
+.btn-primary.active {
+  background-color: #67791f;
+}
+
+a { color: #91ba3d; }
+.content-holder a:hover { color: #67791f; }
+
+.header .sf-menu li li a:hover { color: #91ba3d; background-image: url('images/arrow1.gif'); }
+.sf-menu li li a { background-image: url('images/arrow1.gif'); }
+
+.sidebar ul li { background-image: url('images/arrow2.gif'); }
+
+#back-top-wrapper #back-top span { background-color: #91ba3d; }
+
+
+.content-holder {
+  background-color: #1c2216;
+  color: #959595;
+}
+
+.content-holder a { color: #91ba3d; }
+
+.post-title a {
+  color: #e3e1dc;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #e3e1dc;
+  text-shadow: 1px 1px 0 #000;
+}
+
+.post_meta i {
+  color: #f4f1ec;
+}
+
+.breadcrumb {
+  background: none;
+  border-bottom: 1px dashed #333;/*#d6d4cf;*/
+}
+
+.breadcrumb li.active { font-weight: normal; }
+
+.footer a { color: #e3e1dc; }
+.footer a:hover { color: #67791f; }
+
+blockquote { border-color: #67791f; }
+
+.sidebar .widget,
+.post__holder { border-color: #333; }
+
+.post-author {
+  background: none;
+  color: inherit;
+  padding: 0;
+  border: none;
+}
+.post-author_gravatar img {
+  background-color: #28321f;
+  border: none;
+}
+
+textarea:focus,
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus,
+input[type="date"]:focus,
+input[type="month"]:focus,
+input[type="time"]:focus,
+input[type="week"]:focus,
+input[type="number"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="search"]:focus,
+input[type="tel"]:focus,
+input[type="color"]:focus,
+.uneditable-input:focus {
+  border-color: #67791f;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 6px rgba(103,121,31,.6);
+  -moz-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 6px rgba(103,121,31,.6);
+  box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 6px rgba(103,121,31,.6);
+}
+
+.comment .comment-body,
+.comment.bypostauthor .comment-body {
+  background: #28321f;
+  color: #d1cfca;
+  border: none;
+  border-left: 5px solid #67791f;
+}
+
+.comment .avatar {
+  border-color: #67791f;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 6px rgba(103,121,31,.6);
+  -moz-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 6px rgba(103,121,31,.6);
+  box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 6px rgba(103,121,31,.6);
+}
+
+body {
+  background: #282828;
+}

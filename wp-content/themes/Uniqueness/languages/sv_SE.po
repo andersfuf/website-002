@@ -1,0 +1,642 @@
+# Copyright (C) 2013 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/themes\n"
+"POT-Creation-Date: 2013-03-17 14:26:38+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: BookTheme/404.php:8 HorseClub/404.php:8 MoonCat/404.php:8
+#: Uniqueness/404.php:8
+msgid "Sorry!"
+msgstr "Beklagar!"
+
+#: BookTheme/404.php:9 HorseClub/404.php:9 MoonCat/404.php:9
+#: Uniqueness/404.php:9
+msgid "Page Not Found"
+msgstr "Sidan kunde inte hittas"
+
+#: BookTheme/404.php:11 HorseClub/404.php:11 MoonCat/404.php:11
+#: Uniqueness/404.php:11
+msgid ""
+"The page you are looking for might have been removed, had its name changed, "
+"or is temporarily unavailable."
+msgstr "Sidan som du letar efter kan ha tagits bort, bytt namn eller vara tillfälligt otillgänglig."
+
+#: BookTheme/404.php:17 BookTheme/search.php:16 HorseClub/404.php:17
+#: HorseClub/search.php:16 MoonCat/404.php:17 MoonCat/search.php:16
+#: Uniqueness/404.php:17 Uniqueness/search.php:16
+msgctxt "< and > marks the start and end of the link to the frontpage."
+msgid "<Return to the home page> or use the search form below."
+msgstr "<Gå tillbaka till startsidan> eller använd sökfunktionen."
+
+#: BookTheme/archive.php:11 BookTheme/index.php:12 HorseClub/archive.php:11
+#: HorseClub/index.php:12 MoonCat/archive.php:11 MoonCat/index.php:12
+#: Uniqueness/archive.php:11 Uniqueness/index.php:12
+msgid "An error occurred."
+msgstr "Ett fel uppstod."
+
+#: BookTheme/archive.php:17 BookTheme/index.php:18 HorseClub/archive.php:17
+#: HorseClub/index.php:18 MoonCat/archive.php:17 MoonCat/index.php:18
+#: Uniqueness/archive.php:17 Uniqueness/index.php:18
+msgctxt "< and > marks the start and end of the link to the frontpage."
+msgid ""
+"We apologize for any inconvenience, please <return to the home page> or use "
+"the search form below."
+msgstr "Vi beklagar problemet. <Gå tillbaka till startsidan> eller sök efter det du letar efter."
+
+#: BookTheme/author.php:24 HorseClub/author.php:24 MoonCat/author.php:24
+#: Uniqueness/author.php:24
+msgctxt "%s is substituted by an author name"
+msgid "Recent posts by %s"
+msgstr "Senaste inlägg av %s"
+
+#: BookTheme/functions.php:25 HorseClub/functions.php:25
+#: MoonCat/functions.php:25 Uniqueness/functions.php:25
+msgid "Primary Menu"
+msgstr "Primär meny"
+
+#: BookTheme/includes/breadcrumps.php:24 BookTheme/partials/title.php:8
+#: HorseClub/includes/breadcrumps.php:24 HorseClub/partials/title.php:8
+#: MoonCat/includes/breadcrumps.php:24 MoonCat/partials/title.php:8
+#: Uniqueness/includes/breadcrumps.php:24 Uniqueness/partials/title.php:8
+msgctxt "%s is a placeholder for the Category name"
+msgid "Category Archives: %s"
+msgstr "Kategoriarkiv: %s"
+
+#: BookTheme/includes/breadcrumps.php:28 BookTheme/partials/title.php:11
+#: HorseClub/includes/breadcrumps.php:28 HorseClub/partials/title.php:11
+#: MoonCat/includes/breadcrumps.php:28 MoonCat/partials/title.php:11
+#: Uniqueness/includes/breadcrumps.php:28 Uniqueness/partials/title.php:11
+msgctxt "After the colon the search query will be shown."
+msgid "Search for:"
+msgstr "Sök efter:"
+
+#: BookTheme/includes/breadcrumps.php:83 HorseClub/includes/breadcrumps.php:83
+#: MoonCat/includes/breadcrumps.php:83 Uniqueness/includes/breadcrumps.php:83
+#: BookTheme/partials/title.php:22 HorseClub/partials/title.php:22
+#: MoonCat/partials/title.php:22 Uniqueness/partials/title.php:22
+msgctxt "%s is a placeholder for the tag name."
+msgid "Tag Archives: %s"
+msgstr "Etikettarkiv: %s"
+
+#: BookTheme/includes/customizer/blog.php:4
+#: HorseClub/includes/customizer/blog.php:4
+#: MoonCat/includes/customizer/blog.php:4
+#: Uniqueness/includes/customizer/blog.php:4
+msgid "Show post metadata"
+msgstr "Visa metadata för inlägg"
+
+#: BookTheme/includes/customizer/blog.php:12
+#: HorseClub/includes/customizer/blog.php:12
+#: MoonCat/includes/customizer/blog.php:12
+#: Uniqueness/includes/customizer/blog.php:12
+msgid "Show related posts based on Tags."
+msgstr "Visa relaterade inlägg baserat på etiketter"
+
+#: BookTheme/includes/customizer/blog.php:19
+#: HorseClub/includes/customizer/blog.php:19
+#: MoonCat/includes/customizer/blog.php:19
+#: Uniqueness/includes/customizer/blog.php:19
+msgid "It will only be visible for tagged posts that have related posts."
+msgstr "Kommer endast att visas för inlägg med etiketter som har relaterade inlägg."
+
+#: BookTheme/includes/customizer/blog.php:26
+#: HorseClub/includes/customizer/blog.php:26
+#: MoonCat/includes/customizer/blog.php:26
+#: Uniqueness/includes/customizer/blog.php:26
+msgid "Show author biography on posts."
+msgstr "Visa författarbiografi på inlägg."
+
+#: BookTheme/includes/customizer/blog.php:33
+#: HorseClub/includes/customizer/blog.php:33
+#: MoonCat/includes/customizer/blog.php:33
+#: Uniqueness/includes/customizer/blog.php:33
+msgid "Only visible when looking at posts."
+msgstr "Endast synligt vid läsning av inlägg."
+
+#: BookTheme/includes/customizer/blog.php:40
+#: HorseClub/includes/customizer/blog.php:40
+#: MoonCat/includes/customizer/blog.php:40
+#: Uniqueness/includes/customizer/blog.php:40
+msgid "When listing posts on the front page..."
+msgstr "När inlägg listas på startsidan..."
+
+#: BookTheme/includes/customizer/blog.php:45
+#: HorseClub/includes/customizer/blog.php:45
+#: MoonCat/includes/customizer/blog.php:45
+#: Uniqueness/includes/customizer/blog.php:45
+msgid "show excerpts"
+msgstr "visa utdrag"
+
+#: BookTheme/includes/customizer/blog.php:46
+#: HorseClub/includes/customizer/blog.php:46
+#: MoonCat/includes/customizer/blog.php:46
+#: Uniqueness/includes/customizer/blog.php:46
+msgid "show full posts"
+msgstr "visa hela inlägg"
+
+#: BookTheme/includes/customizer/blog.php:50 BookTheme/partials/title.php:6
+#: HorseClub/includes/customizer/blog.php:50 HorseClub/partials/title.php:6
+#: MoonCat/includes/customizer/blog.php:50 MoonCat/partials/title.php:6
+#: Uniqueness/includes/customizer/blog.php:50 Uniqueness/partials/title.php:6
+msgid "Blog"
+msgstr "Blogg"
+
+#: BookTheme/includes/customizer/blog.php:52
+#: HorseClub/includes/customizer/blog.php:52
+#: MoonCat/includes/customizer/blog.php:52
+#: Uniqueness/includes/customizer/blog.php:52
+msgid "Blog title on front page."
+msgstr "Bloggens titel på startsidan:"
+
+#: BookTheme/includes/customizer/color.php:6
+msgid "Color 1"
+msgstr "Färg 1"
+
+#: BookTheme/includes/customizer/color.php:13
+msgid "Color 2"
+msgstr "Färg 2"
+
+#: BookTheme/includes/customizer/color.php:20
+msgid "Color 3"
+msgstr "Färg 3"
+
+#: BookTheme/includes/customizer/color.php:27
+msgid "Color 4"
+msgstr "Färg 4"
+
+#: BookTheme/includes/customizer/layout.php:5
+#: HorseClub/includes/customizer/layout.php:5
+#: MoonCat/includes/customizer/layout.php:5
+#: Uniqueness/includes/customizer/layout.php:5
+msgid "Display breadcrumbs"
+msgstr "Visa brödsmulor"
+
+#: BookTheme/includes/customizer/layout.php:14
+#: HorseClub/includes/customizer/layout.php:14
+#: MoonCat/includes/customizer/layout.php:14
+#: Uniqueness/includes/customizer/layout.php:14
+msgid "Display Search Box in the Header"
+msgstr "Visa sökbox i sidhuvudet"
+
+#: BookTheme/includes/customizer/layout.php:21
+#: HorseClub/includes/customizer/layout.php:21
+#: MoonCat/includes/customizer/layout.php:21
+#: Uniqueness/includes/customizer/layout.php:21
+msgid "You can also add a search box to the sidebar."
+msgstr "Du kan också lägga till en sökbox i sidopanelen."
+
+#: BookTheme/includes/customizer/layout.php:29
+#: MoonCat/includes/customizer/layout.php:29
+#: Uniqueness/includes/customizer/layout.php:29
+msgid "Display \"Back to Top\" arrow."
+msgstr "Visa en \"Tillbaka till toppen\"-pil."
+
+#: BookTheme/includes/customizer/layout.php:38
+#: HorseClub/includes/customizer/layout.php:29
+#: MoonCat/includes/customizer/layout.php:38
+#: Uniqueness/includes/customizer/layout.php:38
+msgid "Display sidebar on the front page"
+msgstr "Visa sidopanelen på startsidan"
+
+#: BookTheme/includes/customizer/layout.php:46
+#: HorseClub/includes/customizer/layout.php:37
+#: MoonCat/includes/customizer/layout.php:46
+#: Uniqueness/includes/customizer/layout.php:46
+msgctxt "\"Display Sidebar on the Frontpage\""
+msgid "It will still be available on subpages."
+msgstr "Den kommer fortfarande att vara tillgänglig på undersidor."
+
+#: BookTheme/includes/customizer/layout.php:54
+#: MoonCat/includes/customizer/layout.php:54
+#: Uniqueness/includes/customizer/layout.php:54
+msgid "Sidebar Position"
+msgstr "Placering av sidopanel"
+
+#: BookTheme/includes/customizer/layout.php:59
+#: MoonCat/includes/customizer/layout.php:59
+#: Uniqueness/includes/customizer/layout.php:59
+msgid "Left of main content"
+msgstr "Till vänster om huvudinnehållet"
+
+#: BookTheme/includes/customizer/layout.php:60
+#: MoonCat/includes/customizer/layout.php:60
+#: Uniqueness/includes/customizer/layout.php:60
+msgid "Right of main content"
+msgstr "Till höger om huvudinnehållet"
+
+#: BookTheme/includes/customizer/layout.php:65
+#: MoonCat/includes/customizer/layout.php:65
+#: Uniqueness/includes/customizer/layout.php:65
+msgid "This will not effect the front page."
+msgstr "Detta påverkar inte startsidan."
+
+#: BookTheme/includes/customizer/logo.php:5
+#: HorseClub/includes/customizer/logo.php:5
+#: MoonCat/includes/customizer/logo.php:5
+#: Uniqueness/includes/customizer/logo.php:5
+msgid "Logo Image"
+msgstr "Använd bild som logotyp"
+
+#: BookTheme/includes/customizer/logo.php:13
+#: HorseClub/includes/customizer/logo.php:13
+#: MoonCat/includes/customizer/logo.php:13
+#: Uniqueness/includes/customizer/logo.php:13
+msgid "The site title will be used as logo, if no image has been selected."
+msgstr "Sidans titel kommer att användas som logotyp om ingen bild väljs."
+
+#: BookTheme/includes/customizer/logo.php:21
+msgid "Display logo container"
+msgstr "Visa logotyp"
+
+#: BookTheme/includes/customizer/logo.php:29
+msgid "Only used if an image has been selected."
+msgstr "Används endast om en bild har valts"
+
+#: BookTheme/includes/customizer/logo.php:36
+#: HorseClub/includes/customizer/logo.php:21
+#: MoonCat/includes/customizer/logo.php:21
+#: Uniqueness/includes/customizer/logo.php:22
+msgid "Show tagline next to logo"
+msgstr "Visa slogan vid logotyp"
+
+#: BookTheme/includes/customizer/slideshow.php:4
+#: HorseClub/includes/customizer/slideshow.php:4
+#: MoonCat/includes/customizer/slideshow.php:4
+#: Uniqueness/includes/customizer/slideshow.php:4
+msgid "Enable autoplay"
+msgstr "Spela upp automatiskt"
+
+#: BookTheme/includes/customizer/slideshow.php:11
+#: HorseClub/includes/customizer/slideshow.php:11
+#: MoonCat/includes/customizer/slideshow.php:11
+#: Uniqueness/includes/customizer/slideshow.php:11
+msgid "Show slideshow navigation"
+msgstr "Visa navigering för bildspel"
+
+#: BookTheme/includes/customizer/slideshow.php:18
+#: HorseClub/includes/customizer/slideshow.php:18
+#: MoonCat/includes/customizer/slideshow.php:18
+#: Uniqueness/includes/customizer/slideshow.php:18
+msgid "Time on each slide"
+msgstr "Tid på varje bild"
+
+#: BookTheme/includes/customizer/slideshow.php:22
+#: BookTheme/includes/customizer/slideshow.php:23
+#: BookTheme/includes/customizer/slideshow.php:24
+#: BookTheme/includes/customizer/slideshow.php:25
+#: BookTheme/includes/customizer/slideshow.php:26
+#: BookTheme/includes/customizer/slideshow.php:27
+#: BookTheme/includes/customizer/slideshow.php:28
+#: BookTheme/includes/customizer/slideshow.php:29
+#: BookTheme/includes/customizer/slideshow.php:30
+#: BookTheme/includes/customizer/slideshow.php:31
+#: BookTheme/includes/customizer/slideshow.php:32
+#: BookTheme/includes/customizer/slideshow.php:33
+#: BookTheme/includes/customizer/slideshow.php:34
+#: HorseClub/includes/customizer/slideshow.php:22
+#: HorseClub/includes/customizer/slideshow.php:23
+#: HorseClub/includes/customizer/slideshow.php:24
+#: HorseClub/includes/customizer/slideshow.php:25
+#: HorseClub/includes/customizer/slideshow.php:26
+#: HorseClub/includes/customizer/slideshow.php:27
+#: HorseClub/includes/customizer/slideshow.php:28
+#: HorseClub/includes/customizer/slideshow.php:29
+#: HorseClub/includes/customizer/slideshow.php:30
+#: HorseClub/includes/customizer/slideshow.php:31
+#: HorseClub/includes/customizer/slideshow.php:32
+#: HorseClub/includes/customizer/slideshow.php:33
+#: HorseClub/includes/customizer/slideshow.php:34
+#: MoonCat/includes/customizer/slideshow.php:22
+#: MoonCat/includes/customizer/slideshow.php:23
+#: MoonCat/includes/customizer/slideshow.php:24
+#: MoonCat/includes/customizer/slideshow.php:25
+#: MoonCat/includes/customizer/slideshow.php:26
+#: MoonCat/includes/customizer/slideshow.php:27
+#: MoonCat/includes/customizer/slideshow.php:28
+#: MoonCat/includes/customizer/slideshow.php:29
+#: MoonCat/includes/customizer/slideshow.php:30
+#: MoonCat/includes/customizer/slideshow.php:31
+#: MoonCat/includes/customizer/slideshow.php:32
+#: MoonCat/includes/customizer/slideshow.php:33
+#: MoonCat/includes/customizer/slideshow.php:34
+#: Uniqueness/includes/customizer/slideshow.php:22
+#: Uniqueness/includes/customizer/slideshow.php:23
+#: Uniqueness/includes/customizer/slideshow.php:24
+#: Uniqueness/includes/customizer/slideshow.php:25
+#: Uniqueness/includes/customizer/slideshow.php:26
+#: Uniqueness/includes/customizer/slideshow.php:27
+#: Uniqueness/includes/customizer/slideshow.php:28
+#: Uniqueness/includes/customizer/slideshow.php:29
+#: Uniqueness/includes/customizer/slideshow.php:30
+#: Uniqueness/includes/customizer/slideshow.php:31
+#: Uniqueness/includes/customizer/slideshow.php:32
+#: Uniqueness/includes/customizer/slideshow.php:33
+#: Uniqueness/includes/customizer/slideshow.php:34
+msgctxt "%d will be replaced with an integer"
+msgid "%d seconds"
+msgstr "%d sekunder"
+
+#: BookTheme/includes/customizer/slideshow.php:40
+#: HorseClub/includes/customizer/slideshow.php:40
+#: MoonCat/includes/customizer/slideshow.php:40
+#: Uniqueness/includes/customizer/slideshow.php:40
+msgid "Slideshow effect"
+msgstr "Bildspelseffekt"
+
+#: BookTheme/includes/customizer/typography.php:5
+#: HorseClub/includes/customizer/typography.php:5
+#: MoonCat/includes/customizer/typography.php:5
+#: Uniqueness/includes/customizer/typography.php:5
+msgid "Headline font"
+msgstr "Teckensnitt för titel"
+
+#: BookTheme/includes/customizer.php:50 HorseClub/includes/customizer.php:50
+#: MoonCat/includes/customizer.php:50 Uniqueness/includes/customizer.php:50
+msgctxt "Title for Customizer options on which components to use in the blog."
+msgid "Blog"
+msgstr "Blogg"
+
+#: BookTheme/includes/customizer.php:51 HorseClub/includes/customizer.php:51
+#: MoonCat/includes/customizer.php:51 Uniqueness/includes/customizer.php:51
+msgid "Customize the blog."
+msgstr "Anpassa bloggen."
+
+#: BookTheme/includes/customizer.php:61 HorseClub/includes/customizer.php:61
+#: MoonCat/includes/customizer.php:61 Uniqueness/includes/customizer.php:61
+msgid "Layout"
+msgstr "Layout"
+
+#: BookTheme/includes/customizer.php:62 HorseClub/includes/customizer.php:62
+#: MoonCat/includes/customizer.php:62 Uniqueness/includes/customizer.php:62
+msgid "Customize the layout."
+msgstr "Anpassa layouten."
+
+#: BookTheme/includes/customizer.php:72 HorseClub/includes/customizer.php:72
+#: MoonCat/includes/customizer.php:72 Uniqueness/includes/customizer.php:72
+msgid "Typography"
+msgstr "Typografi"
+
+#: BookTheme/includes/customizer.php:73 HorseClub/includes/customizer.php:73
+#: MoonCat/includes/customizer.php:73 Uniqueness/includes/customizer.php:73
+msgid "Customize the site's typography."
+msgstr "Anpassa sidans typografi."
+
+#: BookTheme/includes/customizer.php:84
+msgid "Theme Coloring"
+msgstr "Temafärger"
+
+#: BookTheme/includes/customizer.php:85
+msgid "Defines which colors should be used throughout the theme."
+msgstr "Välj vilka färger som ska användas i temat."
+
+#: BookTheme/includes/customizer.php:93 BookTheme/includes/slideshow.php:4
+#: HorseClub/includes/customizer.php:81 HorseClub/includes/slideshow.php:4
+#: MoonCat/includes/customizer.php:81 MoonCat/includes/slideshow.php:4
+#: Uniqueness/includes/customizer.php:81 Uniqueness/includes/slideshow.php:4
+msgid "Slideshow"
+msgstr "Bildspel"
+
+#: BookTheme/includes/customizer.php:94 HorseClub/includes/customizer.php:82
+#: MoonCat/includes/customizer.php:82 Uniqueness/includes/customizer.php:82
+msgid "Customize the slideshow."
+msgstr "Inställningar för bildspel"
+
+#: BookTheme/includes/customizer.php:102 HorseClub/includes/customizer.php:90
+#: MoonCat/includes/customizer.php:90 Uniqueness/includes/customizer.php:90
+msgid "Logo"
+msgstr "Logotyp"
+
+#: BookTheme/includes/customizer.php:103 HorseClub/includes/customizer.php:91
+#: MoonCat/includes/customizer.php:91 Uniqueness/includes/customizer.php:91
+msgid "Logo settings."
+msgstr "Inställningar för logotyp"
+
+#: BookTheme/includes/slideshow.php:5 HorseClub/includes/slideshow.php:5
+#: MoonCat/includes/slideshow.php:5 Uniqueness/includes/slideshow.php:5
+msgid "Slide"
+msgstr "Bild"
+
+#: BookTheme/includes/slideshow.php:6 HorseClub/includes/slideshow.php:6
+#: MoonCat/includes/slideshow.php:6 Uniqueness/includes/slideshow.php:6
+msgid "Add New"
+msgstr "Lägg till ny"
+
+#: BookTheme/includes/slideshow.php:7 HorseClub/includes/slideshow.php:7
+#: MoonCat/includes/slideshow.php:7 Uniqueness/includes/slideshow.php:7
+msgid "Add New Slide"
+msgstr "Lägg till ny bild"
+
+#: BookTheme/includes/slideshow.php:8 HorseClub/includes/slideshow.php:8
+#: MoonCat/includes/slideshow.php:8 Uniqueness/includes/slideshow.php:8
+msgid "Edit Slide"
+msgstr "Redigera bild"
+
+#: BookTheme/includes/slideshow.php:9 HorseClub/includes/slideshow.php:9
+#: MoonCat/includes/slideshow.php:9 Uniqueness/includes/slideshow.php:9
+msgid "New Slide"
+msgstr "Ny bild"
+
+#: BookTheme/includes/slideshow.php:10 HorseClub/includes/slideshow.php:10
+#: MoonCat/includes/slideshow.php:10 Uniqueness/includes/slideshow.php:10
+msgid "View Slide"
+msgstr "Visa bild"
+
+#: BookTheme/includes/slideshow.php:11 HorseClub/includes/slideshow.php:11
+#: MoonCat/includes/slideshow.php:11 Uniqueness/includes/slideshow.php:11
+msgid "Search Slides"
+msgstr "Sök efter bild"
+
+#: BookTheme/includes/slideshow.php:12 HorseClub/includes/slideshow.php:12
+#: MoonCat/includes/slideshow.php:12 Uniqueness/includes/slideshow.php:12
+msgid "Nothing found"
+msgstr "Inget hittades"
+
+#: BookTheme/includes/slideshow.php:13 HorseClub/includes/slideshow.php:13
+#: MoonCat/includes/slideshow.php:13 Uniqueness/includes/slideshow.php:13
+msgid "Nothing found in Trash"
+msgstr "Inget hittades i papperskorgen"
+
+#: BookTheme/includes/widgets.php:7 HorseClub/includes/widgets.php:7
+#: MoonCat/includes/widgets.php:7 Uniqueness/includes/widgets.php:7
+msgid "Located beside the content."
+msgstr "Placerad bredvid innehållet."
+
+#: BookTheme/includes/widgets.php:17 BookTheme/includes/widgets.php:27
+#: HorseClub/includes/widgets.php:17 HorseClub/includes/widgets.php:27
+#: MoonCat/includes/widgets.php:17 MoonCat/includes/widgets.php:27
+#: Uniqueness/includes/widgets.php:17 Uniqueness/includes/widgets.php:27
+msgid "Located at the bottom of pages."
+msgstr "Placerad längst ner på sidorna."
+
+#: BookTheme/partials/head.php:40 BookTheme/searchform.php:3
+#: BookTheme/searchform.php:4 HorseClub/partials/head.php:61
+#: HorseClub/searchform.php:3 HorseClub/searchform.php:4
+#: MoonCat/partials/head.php:53 MoonCat/searchform.php:3
+#: MoonCat/searchform.php:4 Uniqueness/partials/head.php:35
+#: Uniqueness/searchform.php:3 Uniqueness/searchform.php:4
+msgid "Search"
+msgstr "Sök"
+
+#: BookTheme/partials/head.php:41 HorseClub/partials/head.php:62
+#: MoonCat/partials/head.php:54 Uniqueness/partials/head.php:36
+msgctxt "Button text next to the search box in the header."
+msgid "Go"
+msgstr "Sök"
+
+#: BookTheme/partials/post.php:32 HorseClub/partials/post.php:12
+#: MoonCat/partials/post.php:31 Uniqueness/partials/post.php:31
+msgctxt "Number of comments on a post."
+msgid "No comments"
+msgstr "Inga kommentarer."
+
+#: BookTheme/partials/post.php:33 HorseClub/partials/post.php:13
+#: MoonCat/partials/post.php:32 Uniqueness/partials/post.php:32
+msgctxt "Number of comments on a post"
+msgid "1 comment"
+msgstr "1 kommentar"
+
+#: BookTheme/partials/post.php:34 HorseClub/partials/post.php:14
+#: MoonCat/partials/post.php:33 Uniqueness/partials/post.php:33
+msgctxt "Number of comments on a post. % is substituted by a number"
+msgid "% comments"
+msgstr "% kommentarer"
+
+#: BookTheme/partials/post.php:39 MoonCat/partials/post.php:38
+#: Uniqueness/partials/post.php:38
+msgid "Permalink"
+msgstr "Permalänk"
+
+#: BookTheme/partials/related-posts.php:10
+#: HorseClub/partials/related-posts.php:10
+#: MoonCat/partials/related-posts.php:10
+#: MoonCatBright/partials/related-posts.php:10
+#: Uniqueness/partials/related-posts.php:10
+#: UniquenessGreen/partials/related-posts.php:10
+msgid "Related Posts"
+msgstr "Relaterade inlägg"
+
+#: BookTheme/partials/title.php:16 HorseClub/partials/title.php:16
+#: MoonCat/partials/title.php:16 Uniqueness/partials/title.php:16
+msgctxt "%s is a placeholder for the date."
+msgid "Daily Archives: %s"
+msgstr "Dagliga arkiv: %s"
+
+#: BookTheme/partials/title.php:18 HorseClub/partials/title.php:18
+#: MoonCat/partials/title.php:18 Uniqueness/partials/title.php:18
+msgctxt "%s is a placeholder for the month name."
+msgid "Monthly Archives: %s"
+msgstr "Månatliga arkiv: %s"
+
+#: BookTheme/partials/title.php:20 HorseClub/partials/title.php:20
+#: MoonCat/partials/title.php:20 Uniqueness/partials/title.php:20
+msgctxt "%s is a placeholder for the year number."
+msgid "Yearly Archives: %s"
+msgstr "Årliga arkiv: %s"
+
+#: BookTheme/search.php:10 HorseClub/search.php:10 MoonCat/search.php:10
+#: Uniqueness/search.php:10
+msgctxt "No search results..."
+msgid "There are no results."
+msgstr "Inget resultat."
+
+#: BookTheme/sidebar.php:4 HorseClub/sidebar.php:4 MoonCat/sidebar.php:4
+#: Uniqueness/sidebar.php:4
+msgctxt "Title of Search Placeholder Widget"
+msgid "Search"
+msgstr "Sök"
+
+#: BookTheme/sidebar.php:8 HorseClub/sidebar.php:8 MoonCat/sidebar.php:8
+#: Uniqueness/sidebar.php:8
+msgctxt "Title of Navigation Placeholder Widget"
+msgid "Navigation"
+msgstr "Navigation"
+
+#: BookTheme/sidebar.php:12 HorseClub/sidebar.php:12 MoonCat/sidebar.php:12
+#: Uniqueness/sidebar.php:12
+msgctxt "Title of Archives Placeholder Widget"
+msgid "Archives"
+msgstr "Arkiv"
+
+#: BookTheme/sidebar.php:18 HorseClub/sidebar.php:18 MoonCat/sidebar.php:18
+#: Uniqueness/sidebar.php:18
+msgid "Meta"
+msgstr "Meta"
+
+#: BookTheme/single.php:12 HorseClub/single.php:12 MoonCat/single.php:12
+#: Uniqueness/single.php:12
+msgid "Written by"
+msgstr "Skrivet av"
+
+#: BookTheme/single.php:17 HorseClub/single.php:17 MoonCat/single.php:17
+#: Uniqueness/single.php:17
+msgid "View all posts by:"
+msgstr "Se alla inlägg av:"
+
+#: BookTheme/tag.php:12 HorseClub/tag.php:12 MoonCat/tag.php:12
+#: Uniqueness/tag.php:12
+msgid "There are no posts with this tag."
+msgstr "Det finns inga inlägg med den här etiketten."
+
+#: HorseClub/partials/post.php:8
+msgctxt "As in: \"By H.C. Andersen\""
+msgid "By"
+msgstr "Av"
+
+#: HorseClub/partials/post.php:9
+msgid "Posted in "
+msgstr "Publicerat i"
+
+#: HorseClub/partials/post.php:10
+msgid "With"
+msgstr "Med"
+# Booktheme
+#: content/themes/BookTheme/includes/slideshow.php:71
+#: content/themes/HorseClub/includes/slideshow.php:71
+#: content/themes/MoonCat/includes/slideshow.php:71
+#: content/themes/Uniqueness/includes/slideshow.php:71
+msgid "Slide Image"
+msgstr "Bild i bildspel"
+#: content/themes/BookTheme/includes/slideshow.php:74
+#: content/themes/HorseClub/includes/slideshow.php:74
+#: content/themes/MoonCat/includes/slideshow.php:74
+#: content/themes/Uniqueness/includes/slideshow.php:74
+msgid "This is the image that will be shown on your slide."
+msgstr "Det här är bilden som kommer att visas i ditt bildspel."
+#: content/themes/BookTheme/includes/slideshow.php:87
+#: content/themes/HorseClub/includes/slideshow.php:87
+#: content/themes/MoonCat/includes/slideshow.php:87
+#: content/themes/Uniqueness/includes/slideshow.php:87
+msgid "Link to..."
+msgstr "Länk till..."
+#: content/themes/BookTheme/includes/slideshow.php:90
+#: content/themes/HorseClub/includes/slideshow.php:90
+#: content/themes/MoonCat/includes/slideshow.php:90
+#: content/themes/Uniqueness/includes/slideshow.php:90
+msgid "Which page or post to link to."
+msgstr "Vilken sida eller post att länka till."
+#: content/themes/BookTheme/includes/slideshow.php:95
+#: content/themes/HorseClub/includes/slideshow.php:95
+#: content/themes/MoonCat/includes/slideshow.php:95
+#: content/themes/Uniqueness/includes/slideshow.php:95
+msgid "Caption"
+msgstr "Bildtext"
+#: content/themes/BookTheme/includes/customizer/logo.php:21
+msgid "Add margin above the Logo"
+msgstr "Lägg till marginal ovanför logotypen"
+#: content/themes/BookTheme/includes/customizer/typography.php:5
+msgid "Logo font"
+msgstr "Teckensnitt för logotyp"
+#: content/themes/BookTheme/includes/customizer/typography.php:25
+msgid "Navigation font"
+msgstr "Teckensnitt för navigering"
+#: content/themes/BookTheme/includes/customizer/typography.php:35
+msgid "Body font"
+msgstr "Teckensnitt för brödtext"

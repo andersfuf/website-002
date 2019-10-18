@@ -1,0 +1,64 @@
+#main { color: #eaeaea; }
+
+/* menu */
+.nav-holder { background: #fcfbfb; }
+.nav-holder .span12 { border: 1px solid #171413; border-width: 0 1px; }
+.search-form__h { background: none; }
+.sf-menu { background: none; padding-left: 0; }
+.sf-menu > li { background: none; border-right: 1px solid #171413; padding-right: 0; }
+
+.sf-menu > li > a { color: #6e6969; }
+
+.sf-menu > li > a:hover,
+.sf-menu > li.sfHover > a,
+.sf-menu > li.current-menu-item > a,
+.sf-menu > li.current_page_item > a {
+    background: none;
+    color: #ffc080;
+}
+
+.sf-menu li ul { background: #fcfbfb; }
+.sf-menu li li a { color: #6e6969; }
+.sf-menu li li a:hover { color: #ffc080; }
+
+.search-form__h .search-form_it { background: #fcfbfb; border: 1px solid #fcfbfb; }
+
+.nav-holder .container .row { background: none; }
+
+/* links */
+a, .post_meta a, .post-title a:hover { color: #ffc080; }
+a:hover, .post_meta a:hover { color: #ccc; }
+
+/* content-holder */
+.content-holder { background: #040506; border-color: #000; }
+
+[class^="icon-"]:before, [class*=" icon-"]:before { color: #666; }
+
+/* footer */
+body { background-color: #262626;}
+.header, .slider { background-color: #040506; }
+.footer { color: #6e6969; background: none; border: none; }
+.footer a:hover { color: #ffc080; }
+
+/* misc */
+blockquote { border-color: #ffc080 }
+#back-top span { background-color: #ffc080 }
+
+.service-box .btn:hover, .btn-primary:hover, .pagination li a:hover, .pagination li.active a {
+    color: #ffc080;
+}
+
+h1, h2, h3, h4 { text-shadow: none; color: #999; }
+.sidebar .widget ul li, .post_meta { border-color: #1E1D1D; }
+
+.breadcrumb__t { background: none; padding: 10px 0; border-bottom: 1px solid #1E1D1D; }
+.breadcrumb li { text-shadow: none; color: #999; }
+
+.service-box .btn, .btn-primary, .pagination li a { background-image: none; }
+
+.comment.bypostauthor .comment-body,
+.comment .comment-body { background: #262626; border: none; border-left: 5px solid #ffc080; padding: 10px; }
+
+.post-author { background: #262626; border: none; padding: 10px; }
+
+.related-posts .thumbnail { border: none; }

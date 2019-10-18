@@ -1,0 +1,44 @@
+
+
+/* menu */
+.nav-holder { background: #2f2f2f; }
+.nav-holder .span12 { border: 1px solid #2a2a29; border-width: 0 1px; }
+.search-form__h { background: none; }
+.sf-menu { background: none; padding-left: 0; }
+.sf-menu > li { background: none; border-right: 1px solid #2a2a29; padding-right: 0; }
+
+.sf-menu > li > a:hover,
+.sf-menu > li.sfHover > a,
+.sf-menu > li.current-menu-item > a,
+.sf-menu > li.current_page_item > a {
+    background: #171717;
+    color: #00a7cd;
+}
+
+.sf-menu li li a:hover { color: #00a7cd; }
+
+.search-form__h .search-form_it { background: #ebeceb }
+
+.nav-holder .container .row { background: none; }
+
+/* links */
+a, .post_meta a { color: #00a7cd; }
+a:hover, .post_meta a:hover { color: #2f2f2f; }
+
+/* content-holder */
+.content-holder { background: #ebeceb; }
+
+[class^="icon-"]:before, [class*=" icon-"]:before { color: #333; }
+
+/* footer */
+body, .header, .slider { background-color: #262626; }
+.footer { background: none; }
+.footer a:hover { color: #00a7cd; }
+
+/* misc */
+blockquote { border-color: #4c95a6 }
+#back-top span { background-color: #4c95a6 }
+
+.service-box .btn:hover, .btn-primary:hover, .pagination li a:hover, .pagination li.active a {
+    color: #00a7cd;
+}

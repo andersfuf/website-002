@@ -1,0 +1,135 @@
+body {
+  background: #ffffff;
+  color: #252525;
+}
+
+blockquote { border-color: #0a91ae; }
+
+a, .tagcloud a, .post__holder .post_meta a, .post__holder .post-title a:hover { color: #0a91ae; }
+a:hover, .post__holder .post-title a { color: #252525; }
+
+.camera_prev:hover, .camera_next:hover { background-color: #4e7781 !important; }
+::selection { background: #0a91ae; color: #fff; }
+
+/* background-stripping */
+.header,
+.header:after,
+.content-holder,
+.footer { background: none }
+.content-container {
+  background: none;
+}
+.content-container:before { box-shadow: none; }
+
+/* logo styling */
+.logo_h__txt a,
+.logo_h__txt a:hover { color: #252525; }
+.logo_tagline { color: #969696; }
+
+/* menu */
+.row-top { background: #252525; }
+.sf-menu > li { background-image: url('images/menu-spacer.gif'); }
+
+.sf-menu > li > a:hover,
+.sf-menu > li.sfHover > a,
+.sf-menu > li.current-menu-item > a,
+.sf-menu > li.current_page_item > a {
+  background-color: #0990ad;
+  background-image: -moz-linear-gradient(top, #0990ad, #01657a);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#0990ad), to(#01657a));
+  background-image: -webkit-linear-gradient(top, #0990ad, #01657a);
+  background-image: -o-linear-gradient(top, #0990ad, #01657a);
+  background-image: linear-gradient(to bottom, #0990ad, #01657a);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff0990ad', endColorstr='#ff01657a', GradientType=0);
+}
+.sf-menu > li > a em {
+  background-image: url('images/menu-active-before.gif');
+}
+
+/* sub menu */
+.sf-menu ul { background: #252525; }
+.sf-menu li li a { color: #898989; }
+.sf-menu li li a:hover,.sf-menu li li a:active { color: #0e839c; }
+
+/* slider */
+.slider { margin-top: 10px; }
+.cameraContents { background-image: url('images/slider-caption-tail.gif'); }
+.cameraContents:before { background-image: url('images/slider-caption-glow.jpg'); }
+
+/* button */
+.header .search-form_is,
+#commentform input[type="submit"],
+input[type="submit"], input[type="reset"],
+.btn-primary {
+  color: #ffffff;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+  background-color: #01667c;
+  background-image: -moz-linear-gradient(top, #0990ad, #01667c);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#0990ad), to(#01667c));
+  background-image: -webkit-linear-gradient(top, #0990ad, #01667c);
+  background-image: -o-linear-gradient(top, #0990ad, #01667c);
+  background-image: linear-gradient(to bottom, #0990ad, #01667c);
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff0990ad', endColorstr='#ff01667c', GradientType=0);
+  border-color: #01667c #01667c #002a80;
+  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+  *background-color: #01667c;
+  filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+}
+.header .search-form_is:hover,
+.header .search-form_is:active,
+#commentform input[type="submit"]:hover,
+#commentform input[type="submit"]:active,
+input[type="submit"]:active, input[type="reset"]:active,
+input[type="submit"]:hover, input[type="reset"]:hover,
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary.active,
+.btn-primary.disabled,
+.btn-primary[disabled] {
+  color: #ffffff;
+  background-color: #01667c;
+  border-color: #0990ad;
+}
+
+/* search form */
+.header .search-form_it {
+  background: #3b3b3b;
+  border: 1px solid #000;
+  border-color: #303030 #000 #000 #303030;
+  color: #fff;
+}
+.header .search-form_it:focus {
+  border-color: #000;
+}
+
+/* date meta */
+.post__holder .post_meta span.post_date {
+  color: #fff;
+  background: url(images/post-date-bg.gif) 0 0 no-repeat;
+}
+
+/* footer */
+.footer-widgets { background: #252525; }
+.footer-widgets ul li a:hover { color: #0a91ae; }
+
+/* comments */
+.comment-meta { color: #969696; }
+.comment-author .author { color: #252525; }
+.reply a, .reply a:hover, .reply a:active { background: none; color: #0a91ae; }
+.reply a:hover, .reply:active { color: #252525; }
+
+/* forms */
+input[type="text"], textarea {
+  border: 1px solid #969696;
+  background: #f1f1f1;
+  color: #969696;
+}
+
+input[type="text"]:focus, textarea:focus {
+  border: 1px solid #969696;
+  color: #969696;
+  -webkit-box-shadow: inset 0 0 24px rgba(0, 0, 0, 0.2), 0 0 3px #0a91ae;
+  -moz-box-shadow: inset 0 0 24px rgba(0, 0, 0, 0.2), 0 0 3px #0a91ae;
+  box-shadow: inset 0 0 24px rgba(0, 0, 0, 0.2), 0 0 3px #0a91ae;
+}

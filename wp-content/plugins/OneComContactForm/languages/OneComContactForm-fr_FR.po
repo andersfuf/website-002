@@ -1,0 +1,91 @@
+# Copyright (C) 2013 One.com Contact Form
+# This file is distributed under the same license as the One.com Contact Form package.
+msgid ""
+msgstr ""
+"Project-Id-Version: One.com Contact Form 0.0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/OneComContactForm\n"
+"POT-Creation-Date: 2013-03-22 09:09:04+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: OneComContactForm.php:24 OneComContactForm.php:122
+msgid "Contact Form"
+msgstr "Formulaire de contact"
+
+#: OneComContactForm.php:31
+msgid "Send mails to"
+msgstr "Envoyer des mails à "
+
+#: OneComContactForm.php:32
+msgid "Subject"
+msgstr "Objet"
+
+#: OneComContactForm.php:33
+msgid "Confirmation Text"
+msgstr "Le texte de validation"
+
+#: OneComContactForm.php:52
+msgid "We will get back to you as soon as possible!"
+msgstr "Nous vous répondrons dès que possible !"
+
+#: OneComContactForm.php:56
+msgid "Message from"
+msgstr "Message de "
+
+#: OneComContactForm.php:83
+msgid "Settings"
+msgstr "Paramètres"
+
+#: OneComContactForm.php:92
+msgid "Your Name"
+msgstr "Votre Nom"
+
+#: OneComContactForm.php:93
+msgid "Your Email"
+msgstr "Votre Email"
+
+#: OneComContactForm.php:94
+msgid "Your Message"
+msgstr "Votre Texte"
+
+#: OneComContactForm.php:95
+msgid "Send"
+msgstr "Envoyer"
+
+#: OneComContactForm.php:106
+msgid "Sent by"
+msgstr "Envoyé par"
+
+#: OneComContactForm.php:127
+msgid ""
+"Inserts a contact formular into any page on your Wordpress site. \n"
+"\n"
+"Place this shortcode, where you want the contact formular: %s"
+msgstr "Insère un formulaire de contact dans n'importe quelle page de votre site Wordpress.\n\nPlacez ce shortcode, là où vous voulez que le formulaire de contact soit : %s"
+
+#: OneComContactForm.php:170
+msgid ""
+"The address that will receive the emails sent from the contact formular."
+msgstr "L'adresse qui recevra les mails envoyés depuis le formulaire de contact."
+
+#: OneComContactForm.php:179
+msgid "This will be the subject of out going messages."
+msgstr "Ceci sera l'objet des messages sortants."
+
+#: OneComContactForm.php:187
+msgid ""
+"The following content will be displayed when a visitor has sent you a "
+"message."
+msgstr "Le contenu suivant sera affiché lorsqu'un utilisateur vous aura envoyé un message."
+
+#. Plugin Name of the plugin/theme
+msgid "One.com Contact Form"
+msgstr "One.com Formulaire de contact"
+
+#. Description of the plugin/theme
+msgid "Simple Contact Form Plugin"
+msgstr "Plugin de formulaire de contact simple"

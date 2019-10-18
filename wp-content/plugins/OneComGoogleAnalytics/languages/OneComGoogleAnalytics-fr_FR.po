@@ -1,0 +1,53 @@
+# Copyright (C) 2013 One.com Google Analytics
+# This file is distributed under the same license as the One.com Google Analytics package.
+msgid ""
+msgstr ""
+"Project-Id-Version: One.com Google Analytics 0.0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/OneComGoogleAnalytics\n"
+"POT-Creation-Date: 2013-03-22 09:09:08+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: OneComGoogleAnalytics.php:36
+msgid "Tracking ID"
+msgstr "Tracking ID"
+
+#: OneComGoogleAnalytics.php:44
+msgid "Settings"
+msgstr "Paramètres"
+
+#: OneComGoogleAnalytics.php:60
+msgid "The tracking ID is removed, and it is no longer in use on your page."
+msgstr "Le Tracking ID est retiré, et il n'est plus utilisé sur votre page."
+
+#: OneComGoogleAnalytics.php:67
+msgid "The tracking ID is saved, and it is already in use on your page."
+msgstr "Le Tracking ID est enregistré, et est déjà utilisé sur votre page."
+
+#: OneComGoogleAnalytics.php:76
+msgid "Invalid tracking ID."
+msgstr "Tracking ID invalide."
+
+#: OneComGoogleAnalytics.php:98
+msgid ""
+"Google Analytics is a powerful tool for getting insight of how visitors use "
+"your website. To use Google Analytics, you need to sign up for an account at "
+"their website. It is free, and can be done by following the link below: \n"
+"\n"
+"%s\n"
+"\n"
+"Once you have your Tracking ID, all your need to do, to start using Google "
+"Analytics, is to place your Tracking ID below."
+msgstr "Google Analytics est un outil puissant pour obtenir un aperçu de la façon dont les visiteurs utilisent votre site Web. Pour utiliser Google Analytics, vous devez vous inscrire à un compte sur leur site. Il est gratuit et peut être fait en suivant le lien ci-dessous :\n\n%s\n\nUne fois que vous avez votre Tracking ID, tout ce que vous aurez besoin de faire, pour commencer à utiliser Google Analytics, est de placer votreTracking ID ci-dessous."
+
+#. Plugin Name of the plugin/theme
+msgid "One.com Google Analytics"
+msgstr "One.com Google Analytics"
+
+#. Description of the plugin/theme
+msgid "Simple Google Analytics plugin"
+msgstr "Plugin Google Analytics simple "

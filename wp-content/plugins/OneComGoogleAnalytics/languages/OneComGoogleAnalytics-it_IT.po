@@ -1,0 +1,53 @@
+# Copyright (C) 2013 One.com Google Analytics
+# This file is distributed under the same license as the One.com Google Analytics package.
+msgid ""
+msgstr ""
+"Project-Id-Version: One.com Google Analytics 0.0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/OneComGoogleAnalytics\n"
+"POT-Creation-Date: 2013-03-22 09:09:08+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: OneComGoogleAnalytics.php:36
+msgid "Tracking ID"
+msgstr "ID monitoraggio"
+
+#: OneComGoogleAnalytics.php:44
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: OneComGoogleAnalytics.php:60
+msgid "The tracking ID is removed, and it is no longer in use on your page."
+msgstr "L'ID monitoraggio è rimosso, e non è più in uso sulla tua pagina."
+
+#: OneComGoogleAnalytics.php:67
+msgid "The tracking ID is saved, and it is already in use on your page."
+msgstr "L'ID monitoraggio è salvato, ed è già in uso sulla tua pagina."
+
+#: OneComGoogleAnalytics.php:76
+msgid "Invalid tracking ID."
+msgstr "ID monitoraggio invalido."
+
+#: OneComGoogleAnalytics.php:98
+msgid ""
+"Google Analytics is a powerful tool for getting insight of how visitors use "
+"your website. To use Google Analytics, you need to sign up for an account at "
+"their website. It is free, and can be done by following the link below: \n"
+"\n"
+"%s\n"
+"\n"
+"Once you have your Tracking ID, all your need to do, to start using Google "
+"Analytics, is to place your Tracking ID below."
+msgstr "Google Analytics è un potente strumento per comprendere come i visitatori utilizzano il tuo sito web. Per usare Google Analytics, devi registrare un account sul loro sito. È gratis e puoi farlo tramite questo link: \n\n%s\n\nUna volta ottenuto il tuo ID monitoraggio, tutto quello che devi fare, per iniziare ad usare Google Analytics, è piazzare il tuo ID monitoraggio sotto."
+
+#. Plugin Name of the plugin/theme
+msgid "One.com Google Analytics"
+msgstr "Google Analytics One.com"
+
+#. Description of the plugin/theme
+msgid "Simple Google Analytics plugin"
+msgstr "Semplice plugin per Google Analytics"

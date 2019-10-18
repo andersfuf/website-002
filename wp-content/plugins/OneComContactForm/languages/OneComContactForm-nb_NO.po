@@ -1,0 +1,91 @@
+# Copyright (C) 2013 One.com Contact Form
+# This file is distributed under the same license as the One.com Contact Form package.
+msgid ""
+msgstr ""
+"Project-Id-Version: One.com Contact Form 0.0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/OneComContactForm\n"
+"POT-Creation-Date: 2013-03-22 09:09:04+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: OneComContactForm.php:24 OneComContactForm.php:122
+msgid "Contact Form"
+msgstr "Kontaktskjema"
+
+#: OneComContactForm.php:31
+msgid "Send mails to"
+msgstr "Send e-poster til"
+
+#: OneComContactForm.php:32
+msgid "Subject"
+msgstr "Emne"
+
+#: OneComContactForm.php:33
+msgid "Confirmation Text"
+msgstr "Bekreftelsestekst"
+
+#: OneComContactForm.php:52
+msgid "We will get back to you as soon as possible!"
+msgstr "Vi svarer deg så snart som mulig!"
+
+#: OneComContactForm.php:56
+msgid "Message from"
+msgstr "Melding fra"
+
+#: OneComContactForm.php:83
+msgid "Settings"
+msgstr "Innstillinger"
+
+#: OneComContactForm.php:92
+msgid "Your Name"
+msgstr "Ditt navn"
+
+#: OneComContactForm.php:93
+msgid "Your Email"
+msgstr "Din e-post"
+
+#: OneComContactForm.php:94
+msgid "Your Message"
+msgstr "Din tekst"
+
+#: OneComContactForm.php:95
+msgid "Send"
+msgstr "Send"
+
+#: OneComContactForm.php:106
+msgid "Sent by"
+msgstr "Sendt av"
+
+#: OneComContactForm.php:127
+msgid ""
+"Inserts a contact formular into any page on your Wordpress site. \n"
+"\n"
+"Place this shortcode, where you want the contact formular: %s"
+msgstr "Setter inn et kontaktskjema på en side på Wordpress-nettstedet ditt.\n\nPlasser denne \"shortcode\" der hvor du vil sette inn kontaktskjemaet: %s"
+
+#: OneComContactForm.php:170
+msgid ""
+"The address that will receive the emails sent from the contact formular."
+msgstr "Adressen som mottar e-poster sendt fra kontaktskjemaet."
+
+#: OneComContactForm.php:179
+msgid "This will be the subject of out going messages."
+msgstr "Dette blir emnet i dine utgående meldinger."
+
+#: OneComContactForm.php:187
+msgid ""
+"The following content will be displayed when a visitor has sent you a "
+"message."
+msgstr "Det følgende innholdet blir vist når en bruker har sendt deg en melding."
+
+#. Plugin Name of the plugin/theme
+msgid "One.com Contact Form"
+msgstr "One.com kontaktskjema"
+
+#. Description of the plugin/theme
+msgid "Simple Contact Form Plugin"
+msgstr "Plugin for enkelt kontaktskjema"

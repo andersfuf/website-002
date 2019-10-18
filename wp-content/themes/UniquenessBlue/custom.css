@@ -1,0 +1,60 @@
+.header {
+    background-color: #375d81;
+    border-color: #183152;
+}
+
+.btn-primary {
+  color: #ffffff;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+  background-color: #498dcc;
+  background-image: -moz-linear-gradient(top, #4d81b2, #375d81);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#4d81b2), to(#375d81));
+  background-image: -webkit-linear-gradient(top, #4d81b2, #375d81);
+  background-image: -o-linear-gradient(top, #4d81b2, #375d81);
+  background-image: linear-gradient(to bottom, #4d81b2, #375d81);
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff4d81b2', endColorstr='#ff375d81', GradientType=0);
+  border-color: #375d81 #375d81 #183152;
+  border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+  *background-color: #375d81;
+  /* Darken IE7 buttons by default so they stand out more given they won't have borders */
+
+  filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+}
+
+.btn-primary:active,
+.btn-primary.active {
+  background-color: #265480;
+}
+
+a { color: #375d81; }
+.content-holder a:hover { color: #183152; }
+
+.header .sf-menu li li a:hover { color: #375d81; background-image: url('images/arrow1.gif'); }
+.sf-menu li li a { background-image: url('images/arrow1.gif'); }
+
+.sidebar ul li { background-image: url('images/arrow2.gif'); }
+
+#back-top-wrapper #back-top span { background-color: #375d81; }
+
+textarea:focus,
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus,
+input[type="date"]:focus,
+input[type="month"]:focus,
+input[type="time"]:focus,
+input[type="week"]:focus,
+input[type="number"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="search"]:focus,
+input[type="tel"]:focus,
+input[type="color"]:focus,
+.uneditable-input:focus {
+  border-color: #183152;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 6px rgba(24,49,82,.6);
+  -moz-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 6px rgba(24,49,82,.6);
+  box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 6px rgba(24,49,82,.6);
+}

@@ -1,0 +1,51 @@
+# Copyright (C) 2013 One.com Social Sharing Buttons
+# This file is distributed under the same license as the One.com Social Sharing Buttons package.
+msgid ""
+msgstr ""
+"Project-Id-Version: One.com Social Sharing Buttons 0.0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/OneComSocialSharing\n"
+"POT-Creation-Date: 2013-03-22 09:09:18+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: settings.php:11
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: settings.php:24
+msgid "Active buttons"
+msgstr "Bottoni attivi"
+
+#: settings.php:25
+msgid "Placement"
+msgstr "Posizione"
+
+#: settings.php:39
+msgid "With this plugin you will be able to insert share buttons for various social networks. This will let your visitors quickly share your content with their friends. \n\nYou can insert the buttons automatically, or do it manually with the following shortcode: %s\n\nOnly the buttons that you select will be shown on your page."
+msgstr "Con questo plugin potrai inserire bottoni di condivisione per i vari social networks. Questo permetterà ai tuoi visitatori di condividere velocemente i tuoi contenuti con i loro amici. \n\nPuoi inserire i bottoni automaticamente, o farlo manualmente con il seguente shortcode:  %s\n\nSolo i bottoni che selezioni verranno mostrati sulla tua pagina."
+
+#: settings.php:81
+msgid "Insert at the end of all single posts."
+msgstr "Inserisci alla fine di tutti i post singoli."
+
+#: settings.php:86
+msgid "Insert at the end of all pages."
+msgstr "Inserisci alla fine di tutte le pagine."
+
+#: settings.php:89
+msgid ""
+"Manual placement using the shortcode will work even if both of these options "
+"are disabled."
+msgstr "Il posizionamento manuale utilizzando uno shortcode funzionerà anche se entrambe queste opzioni sono disabilitate."
+
+#. Plugin Name of the plugin/theme
+msgid "One.com Social Sharing Buttons"
+msgstr "Bottoni di condivisione per i social One.com"
+
+#. Description of the plugin/theme
+msgid "Adds sharing buttons for the most popular social networks."
+msgstr "Aggiunge bottoni di condivisione per i social network più conosciuti."
